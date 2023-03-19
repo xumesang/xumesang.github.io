@@ -10,6 +10,18 @@ redirect_from:
 
 The focus of my research is on the development of vulnerability detection and defense methods for protecting industrial control systems (ICS). In particular, I have developed automatic patch generation methods for industrial controllers and a reliable live patching method for industrial controllers. 
 
+Education
+======
+- B.S. in NPU
+- School of Cyber Science and Engineering, NJUST
+
+* 2017 - 2023: Graduate/Ph.D. Student
+- Major: Cyberspace Security
+- Advisor: Dr. Limin Sun
+- Institute of Information Engineering
+- University of Chinese Academy of Sciences, Beijing, China
+
+
 Professional Experience and Education
 ======
 - 2023 - present: Assistant Professor
