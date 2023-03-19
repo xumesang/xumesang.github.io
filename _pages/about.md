@@ -13,7 +13,7 @@ The focus of my research is on the development of vulnerability detection and de
 Education
 ======
 - University of Chinese Academy of Sciences (UCAS), China, 2017
-Ph.D in Cyberspace Security
+- Ph.D in Cyberspace Security
 
 - Virginua Tech (VT), USA, 2019
 - Visiting Student sponsored by the China Scholarship Council (CSC) and VT
