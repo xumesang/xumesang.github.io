@@ -12,8 +12,8 @@ The focus of my research is on the development of vulnerability detection and de
 
 Professional Experience and Education
 ======
-- 2023 - present: Assistant Professor
-- School of Cyber Science and Engineering, NJUST
++ 2023 - present: Assistant Professor
++ School of Cyber Science and Engineering, NJUST
 
 - 2017 - 2023: Graduate/Ph.D. Student
 - Major: Cyberspace Security
