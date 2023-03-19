@@ -15,14 +15,14 @@ Education
 - University of Chinese Academy of Sciences (UCAS), China, 2017
 - Ph.D in Cyberspace Security
 
-Virginua Tech (VT), USA, 2019
-Visiting Student sponsored by the China Scholarship Council (CSC) and VT
+- Virginua Tech (VT), USA, 2019
+- Visiting Student sponsored by the China Scholarship Council (CSC) and VT
 
-University of Science and Technology of China (USTC), China, 2014\\
-M.S. in Software Engineering
+- University of Science and Technology of China (USTC), China, 2014\\
+- M.S. in Software Engineering
 
-Northwestern Polytechnical University (NPU), China, 2009\\
-B.S. in Software Engineering
+- Northwestern Polytechnical University (NPU), China, 2009\\
+- B.S. in Software Engineering
 
 Work Experience
 ======
