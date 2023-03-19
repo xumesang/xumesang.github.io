@@ -12,15 +12,9 @@ The focus of my research is on the development of vulnerability detection and de
 
 Education
 ======
-- B.S. in NPU
-- School of Cyber Science and Engineering, NJUST
-
-* 2017 - 2023: Graduate/Ph.D. Student
-- Major: Cyberspace Security
-- Advisor: Dr. Limin Sun
-- Institute of Information Engineering
-- University of Chinese Academy of Sciences, Beijing, China
-
+- B.S. in Software Engineering, Northwestern Polytical University, 2009
+- M.S. in Software Engineering, University of Science and Technology of China, 2014
+- Ph.D in Cyberspace Security, University of Chinese Academy of Sciences, 2017
 
 Professional Experience and Education
 ======
