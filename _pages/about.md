@@ -12,10 +12,17 @@ The focus of my research is on the development of vulnerability detection and de
 
 Education
 ======
-- B.S. in Software Engineering, Northwestern Polytical University, China, 2009
-- M.S. in Software Engineering, University of Science and Technology of China, China, 2014
-- Ph.D in Cyberspace Security, University of Chinese Academy of Sciences, China, 2017
-- Visiting Student sponsored by the China Scholarship Council (CSC), Virginua Tech, US, 2019
+- University of Chinese Academy of Sciences (UCAS), China, 2017
+- Ph.D in Cyberspace Security
+
+Virginua Tech (VT), USA, 2019
+Visiting Student sponsored by the China Scholarship Council (CSC) and VT
+
+University of Science and Technology of China (USTC), China, 2014\\
+M.S. in Software Engineering
+
+Northwestern Polytechnical University (NPU), China, 2009\\
+B.S. in Software Engineering
 
 Work Experience
 ======
