@@ -21,6 +21,7 @@ Work Experience
 - B.S. in Software Engineering, Northwestern Polytical University, 2009
 - M.S. in Software Engineering, University of Science and Technology of China, 2014
 - Ph.D in Cyberspace Security, University of Chinese Academy of Sciences, 2017
+- Virginia Tech-China Scholarship Council (CSC) Joint Scholarship, 2019
 
 Professional Experience and Education
 ======
