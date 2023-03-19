@@ -15,24 +15,11 @@ Education
 - B.S. in Software Engineering, Northwestern Polytical University, 2009
 - M.S. in Software Engineering, University of Science and Technology of China, 2014
 - Ph.D in Cyberspace Security, University of Chinese Academy of Sciences, 2017
+- Visiting Student at Virginua Tech, sponsored by the China Scholarship Council (CSC), 2019
 
 Work Experience
 ======
-- B.S. in Software Engineering, Northwestern Polytical University, 2009
-- M.S. in Software Engineering, University of Science and Technology of China, 2014
-- Ph.D in Cyberspace Security, University of Chinese Academy of Sciences, 2017
-- Virginia Tech-China Scholarship Council (CSC) Joint Scholarship, 2019
-
-Professional Experience and Education
-======
-- 2023 - present: Assistant Professor
-- School of Cyber Science and Engineering, NJUST
-
-* 2017 - 2023: Graduate/Ph.D. Student
-- Major: Cyberspace Security
-- Advisor: Dr. Limin Sun
-- Institute of Information Engineering
-- University of Chinese Academy of Sciences, Beijing, China
+- Assistant Professor, School of Cyber Science and Engineering, NJUST, 2023
 
 Contact Information
 ------
