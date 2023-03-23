@@ -14,7 +14,7 @@ Education
 ======
 * 2017-2023: Ph.D. Student
   * Major: Cyberspace Security
-  * University of Chinese Academy of Sciences (UCAS), China
+  * [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), China
 
 * 2019-2020: Visiting Student sponsored by the China Scholarship Council (CSC) and Virginia Tech (VT)
   * Virginia Tech, USA, 2019
