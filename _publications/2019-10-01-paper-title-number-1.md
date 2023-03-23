@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://drive.google.com/file/d/1dnkFjndH2Ts9nyrJDppJssqpBHk1yqPm/view)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: M.Zhou, S.Lv, L.Yin, X.Chen, H.Li and L,Sun (2019). "Paper Title Number 1." <i>2019 IEEE International Conference on Communications (ICC)</i>. 1(1).
