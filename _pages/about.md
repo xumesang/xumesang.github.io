@@ -17,15 +17,15 @@ Education
   * [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), China
 
 * 2019-2020: Visiting Student sponsored by the China Scholarship Council (CSC) and Virginia Tech (VT)
-  * Virginia Tech, USA, 2019
+  * [Virginia Tech](https://dcarea.vt.edu/), USA, 2019
 
 * 2014-2017: M.S. Student
   * Major: Software Engineering
-  * University of Science and Technology of China (USTC), China
+  * [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), China
 
 * 2009-2013: B.S. Student
   * Major: Software Engineering
-  * Northwestern Polytechnical University (NPU), China
+  * [Northwestern Polytechnical University (NPU)](https://en.nwpu.edu.cn/), China
 
 Work Experience
 ======
