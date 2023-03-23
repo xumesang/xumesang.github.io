@@ -17,7 +17,7 @@ Education
   * University of Chinese Academy of Sciences (UCAS), China
 
 * 2019-2020: Visiting Student sponsored by the China Scholarship Council (CSC) and Virginia Tech (VT)
-  * Virginia Tech, Arlington, VA, 2019
+  * Virginia Tech, USA, 2019
 
 * 2014-2017: M.S. Student
   * Major: Software Engineering
