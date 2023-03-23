@@ -31,4 +31,4 @@ Work Experience
 Contact Information
 ------
 - Email: mingzhou@njust.edu.cn
-- Office: Zhishan Building 403, NJUST Jiangyin Campus, Jiangsu, China
+- Office: Zhishan-A 403
