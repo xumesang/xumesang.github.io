@@ -1,0 +1,15 @@
+---
+title: "SCTM: A Multi-View Detecting Approach Against Industrial Control Systems Attacks"
+collection: publications
+permalink: /publication/2019-05-20-paper-SCTM
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2019-05-20
+venue: 'IEEE International Conference on Communications (ICC)'
+paperurl: 'https://drive.google.com/file/d/1dnkFjndH2Ts9nyrJDppJssqpBHk1yqPm/view'
+citation: 'M.Zhou, S.Lv, L.Yin, X.Chen, H.Li and L,Sun (2019). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](https://drive.google.com/file/d/1dnkFjndH2Ts9nyrJDppJssqpBHk1yqPm/view)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
