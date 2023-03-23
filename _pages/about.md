@@ -12,31 +12,26 @@ The focus of my research is on the development of vulnerability detection and de
 
 Education
 ======
-* 2017 - 2023: Graduate/Ph.D. Student
+* 2017 - 2023: Ph.D. Student
   * Major: Cyberspace Security
   * University of Chinese Academy of Sciences (UCAS), China
 
-* Visiting Student sponsored by the China Scholarship Council (CSC) and VT
-  * Virginua Tech (VT), USA, 2019
+* 2019 - 2020: Visiting Student sponsored by the China Scholarship Council (CSC) and VT
+  * Virginia Tech (VT), Arlington, VA, 2019
 
-- University of Science and Technology of China (USTC), China, 2014
-- M.S. in Software Engineering
+* 2014 - 2017: M.S. Student
+  * Major: Software Engineering
+  * University of Science and Technology of China (USTC), China
 
-- Northwestern Polytechnical University (NPU), China, 2009
-- B.S. in Software Engineering
-
-
-* List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
+* 2009 - 2013: B.S. Student
+  * Major: Software Engineering
+  * Northwestern Polytechnical University (NPU), China, 2009
 
 Work Experience
 ======
-- Assistant Professor, School of Cyber Science and Engineering, NJUST, 2023
+* Assistant Professor, School of Cyber Science and Engineering, NJUST, 2023
 
 Contact Information
 ------
-- Email: mingzhou@njust.edu.cn
-- Office: Zhishan-A 403
+* Email: mingzhou@njust.edu.cn
+* Office: Zhishan-A 403
