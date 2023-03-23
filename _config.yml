@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Ming Zhou"
   avatar           : "profile.jpg"
-  bio              : "I'm an assistant professor of SCS, Nanjing University of Science and Technology"
+  bio              : "I'm an assistant professor of SCS, "
+                     "Nanjing University of Science and Technology"
   location         : "Nanjing, Jiangsu, China"
   employer         :
   pubmed           : # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
