@@ -16,7 +16,7 @@ Education
   * Major: Cyberspace Security
   * [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), China
 
-* 2019-2020: Visiting Student sponsored by the China Scholarship Council (CSC) and Virginia Tech (VT)
+* 2019-2020: Joint-training student sponsored by the China Scholarship Council (CSC) and Virginia Tech (VT)
   * [Virginia Tech](https://dcarea.vt.edu/), USA, 2019
 
 * 2014-2017: M.S. Student
