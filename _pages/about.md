@@ -12,18 +12,18 @@ The focus of my research is on the development of vulnerability detection and de
 
 Education
 ======
-* 2017-2023: Ph.D. Student
+* 2017-2023: Ph.D. student
   * Major: Cyberspace Security
   * [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), China
 
-* 2019-2020: Joint-training student sponsored by the China Scholarship Council (CSC) and Virginia Tech (VT)
+* 2019-2020: Joint-training Ph.D. student sponsored by the China Scholarship Council (CSC) and Virginia Tech (VT)
   * [Virginia Tech](https://dcarea.vt.edu/), USA, 2019
 
-* 2014-2017: M.S. Student
+* 2014-2017: M.S. student
   * Major: Software Engineering
   * [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), China
 
-* 2009-2013: B.S. Student
+* 2009-2013: B.S. student
   * Major: Software Engineering
   * [Northwestern Polytechnical University (NPU)](https://en.nwpu.edu.cn/), China
 
