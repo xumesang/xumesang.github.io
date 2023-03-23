@@ -32,7 +32,6 @@ Work Experience
 * 2023-present: Assistant Professor
   * School of Cyber Science and Engineering
   * Nanjing University of Science and Technology (NJUST), China
-  # [Nanjing University of Science and Technology (NJUST)](https://english.njust.edu.cn/)
 
 Contact Information
 ------
