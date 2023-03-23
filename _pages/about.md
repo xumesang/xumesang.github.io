@@ -25,11 +25,13 @@ Education
 
 * 2009-2013: B.S. Student
   * Major: Software Engineering
-  * Northwestern Polytechnical University (NPU), China, 2009
+  * Northwestern Polytechnical University (NPU), China
 
 Work Experience
 ======
-* Assistant Professor, School of Cyber Science and Engineering, NJUST, 2023
+* 2023-present: Assistant Professor
+  * School of Cyber Science and Engineering
+  * Nanjing University of Science and Technology (NJUST), China
 
 Contact Information
 ------
