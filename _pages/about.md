@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm interested in developing vulnerability detection and defense methods for protecting cyber-physical systems (CPS) and real-time embedded systems. In particular, I have developed a reliable live patching method for industrial controllers and automatic patch generation methods for industrial controllers. 
+I'm interested in developing vulnerability detection and defense methods for protecting cyber-physical systems (CPS) and real-time embedded systems.  In particular, I have developed a reliable live patching method and an automatic patch generation method for industrial controllers.
 
 Education
 ======
