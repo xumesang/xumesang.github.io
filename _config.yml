@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ming Zhou @ NJUST"
+title                    : "Ming Zhou@NJUST"
 title_separator          : "-"
 name                     : &name "Ming Zhou"
 description              : &description "personal description"
