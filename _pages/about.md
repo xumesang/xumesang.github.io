@@ -35,5 +35,5 @@ Work Experience
 
 Contact Information
 ------
-* Email: mingzhou@njust.edu.cn
+* Email: mingzhou@njust.edu.cn, <strike>zhouming@iie.ac.cn</strike>
 * Office: Zhishan-A 403
