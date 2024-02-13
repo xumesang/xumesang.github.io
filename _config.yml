@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ming Zhou (周明)"
+title                    : "Ming Zhou@NJUST"
 title_separator          : "-"
-name                     : &name "Ming Zhou"
+name                     : &name "Ming Zhou (周明)"
 description              : &description "personal description"
 url                      : https://xumesang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
