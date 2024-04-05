@@ -4,10 +4,11 @@ title: "Ming Zhou (周明)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - Nanjing University of Science and Technology, Assistant Professor
-  - Zhishan A-403 (Jiangyin Campus)
+  - /about/
+  - /about.html
 ---
-I'm an Assistant Professor at the School of Cyber Science and Engineering, Nanjing University of Science and Technology.
+- Nanjing University of Science and Technology, Assistant Professor
+- Zhishan A-403 (Jiangyin Campus)
 
 Research Interests
 ======
