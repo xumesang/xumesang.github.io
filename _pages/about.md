@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Interests"
+title: "Ming Zhou (周明)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Research Interests
+======
 I'm interested in developing vulnerability discovery and defense methods for protecting cyber-physical systems (CPS) and real-time embedded systems.  In particular, I have developed a reliable live patching method and an automatic patch generation method for industrial controllers.
 
 Education

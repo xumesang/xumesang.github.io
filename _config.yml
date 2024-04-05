@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ming Zhou (周明)"
+  name             : "Ming Zhou"
   avatar           : "profile.jpg"
-  bio              : "I'm an Assistant Professor at the School of Cyber Science and Engineering, Nanjing University of Science and Technology"
+  bio              : "NWPU->USTC->IIE"
   location         : "Nanjing, China"
   employer         :
   pubmed           : # example "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
