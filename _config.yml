@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ming Zhou (周明) "
+  name             : "Ming Zhou (周明)"
   avatar           : "profile.jpg"
   bio              : "I'm an Assistant Professor at the School of Cyber Science and Engineering, Nanjing University of Science and Technology"
   location         : "Nanjing, China"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # example: "xumesang"
+  github           : xumesang
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # example: "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0005-6873-5710"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
