@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm an Assistant Professor at the School of Cyber Science and Engineering, Nanjing University of Science and Technology
 
 Research Interests
 ======
