@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Nanjing University of Science and Technology, Assistant Professor
-- Zhishan A-403 (Jiangyin Campus)
+Nanjing University of Science and Technology, Assistant Professor
+Zhishan A-403 (Jiangyin Campus)
 
 Research Interests
 ======
