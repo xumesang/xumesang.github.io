@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Nanjing University of Science and Technology, Assistant Professor
-Zhishan A-403 (Jiangyin Campus)
+I'm an Assistant Professor at the School of Cyber Science and Engineering, Nanjing University of Science and Technology. 
 
 Research Interests
 ======
